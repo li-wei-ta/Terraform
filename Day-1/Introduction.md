@@ -1,4 +1,4 @@
-# Key Take aways
+# Key Take Aways
 
 ## Hands on
 
@@ -8,7 +8,7 @@
 
 - Automate infrastucture Provisioning through code instead of manual configuration
 - Better version Control
-- Popular IaC tools include -> AWS CloudFormation, Azure Resource Manager, etc
+- Other Popular IaC tools include -> AWS CloudFormation, Azure Resource Manager, etc
 
 ## Why Terraform as IaC?
 
