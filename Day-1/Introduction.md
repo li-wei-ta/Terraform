@@ -1,4 +1,8 @@
-# Key Take aways / Notes
+# Key Take aways
+
+## Hands on
+
+- How provision simple ec2 instance in main.tf
 
 ## Introduction to IaC (What's it's significance?)
 
@@ -18,5 +22,5 @@
 
 - "terraform init" -> When working on a new terraform project or make any changes to backend
 - "terraform plan" -> Shows what terraform is going to perform before making the changes
-  - "terraform apply" -> Actually apply the changes to match your desired configuration
-  - "terraform destroy" -> Remove everything managed by terraform
+- "terraform apply" -> Actually apply the changes to match your desired configuration
+- "terraform destroy" -> Remove everything managed by terraform
