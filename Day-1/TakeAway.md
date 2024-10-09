@@ -1,9 +1,5 @@
 # Key Take Aways
 
-## Hands on
-
-- How provision simple ec2 instance in main.tf
-
 ## Introduction to IaC (What's it's significance?)
 
 - Automate infrastucture Provisioning through code instead of manual configuration
@@ -24,3 +20,7 @@
 - "terraform plan" -> Shows what terraform is going to perform before making the changes
 - "terraform apply" -> Actually apply the changes to match your desired configuration
 - "terraform destroy" -> Remove everything managed by terraform
+
+## Hands on
+
+- How provision simple ec2 instance in main.tf
