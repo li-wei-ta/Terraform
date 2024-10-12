@@ -2,7 +2,7 @@
 
 ## Hands on
 
-- Configured networking infrastructure from scratch -> VPC, subnet, internet gateway, route tables and security groups
+- Configured networking infrastructure from scratch following terraform best practicies -> VPC, subnet, internet gateway, route tables and security groups
 - Deployed a simple static apache website on Linux ec2 instance using userdata under 'src/user_data.sh'
 - Made the website accessible from the internet
 
