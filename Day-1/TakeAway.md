@@ -21,6 +21,6 @@
 - "terraform apply" -> Actually apply the changes to match your desired configuration
 - "terraform destroy" -> Remove everything managed by terraform
 
-## Hands on
+## Hands on learning
 
-- How provision simple ec2 instance in main.tf
+- Provisioned a simple ec2 instance in main.tf
