@@ -1,5 +1,9 @@
 # Key Take Away
 
+## Hands On
+
+- Learnt how to create a module to standardize the creation of ec2 instances
+
 ## Module
 
 - Basically a "library" and has the following advantages:
