@@ -1,0 +1,6 @@
+region            = "ca-central-1"
+availability_zone = "ca-central-1a"
+instance_type     = "t2.micro"
+linux_ami         = "ami-0eb9fdcf0d07bd5ef"
+vpc_cidr          = "10.0.0.0/16"
+sub1_cidr         = "10.0.0.0/24"
