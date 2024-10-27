@@ -1,5 +1,7 @@
 # Key Take Away
 
+## Hands on
+
 - Expanded on the hands-on project on Day 2
 - Hosted a simple flask applications with the help of provisioners
 
