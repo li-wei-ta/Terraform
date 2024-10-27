@@ -25,16 +25,16 @@ resource "aws_instance" "example1" {
 
   provisioner "file" {
     source      = "app.py"
-    destination = "/home/ubuntu/app.py" # Replace with the path on the remote instance
+    destination = "/home/ubuntu/app.py" 
   }
 
   provisioner "remote-exec" {
     inline = [
       "echo 'Hello from the remote instance'",
-      "sudo apt update -y",                # Update package lists
-      "sudo apt install -y python3-flask", # Install Flask via apt
+      "sudo apt update -y",                
+      "sudo apt install -y python3-flask", 
       "cd /home/ubuntu",
-      "nohup sudo python3 app.py" # Run the app.py in the background with nohup
+      "nohup sudo python3 app.py" 
     ]
   }
 }
