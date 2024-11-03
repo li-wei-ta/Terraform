@@ -78,11 +78,6 @@
     • Terraform Community (Terraform CLI)
         ○ More for local development, for smaller teams, prototyping. When the project team grows -> Terraform cloud
         ○ Workspace - act as separate states within the same configuration directory, typically to manage different environments like dev, staging, or prod
-    • Terraform enterprise
-        ○ Private registry -
-    ![alt text](image.png)
-
-    ![alt text](image-1.png)
         ○ Terraform registry -> Not support all code repo
     • Syntax (best practices)
         ○ Two spaces for indentation when writing terraform blocks
@@ -98,7 +93,6 @@
     • Local Backend
         ○ Stores state on local filesystem
         ○ Locks the tate using system APIs and performs operations locally
-        ○
     • Sentinel and OPA
         ○ Both are `policy as code` frameworks
         ○ Sentinel policy are enforced after the plan phase and before the apply phase
