@@ -80,9 +80,9 @@
         ○ Workspace - act as separate states within the same configuration directory, typically to manage different environments like dev, staging, or prod
     • Terraform enterprise
         ○ Private registry -
-    •
+    ![alt text](image.png)
 
-    •
+    ![alt text](image-1.png)
         ○ Terraform registry -> Not support all code repo
     • Syntax (best practices)
         ○ Two spaces for indentation when writing terraform blocks
